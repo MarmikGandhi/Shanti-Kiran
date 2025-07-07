@@ -16,7 +16,7 @@ Users can sign up, explore various yoga plans, and attend live sessions via **Go
 
 ## 🚀 Live Demo
 
-> Coming Soon – Will be deployed on GitHub Pages / Netlify / Vercel / Custom domain.
+> CWant to try it out? [Click here to open the live demo]((https://shanti-kiran-marmik.netlify.app/)
 
 ---
 
