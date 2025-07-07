@@ -3,7 +3,7 @@
 
 **A holistic yoga and wellness platform empowering users through virtual sessions, personalized plans, and mindful practices.**
 
-![Shanti Kiran Logo](Images/shantikiranlogo.jpg)
+![Shanti Kiran Logo](images/shantikiranlogo.jpg)
 
 ---
 
@@ -116,12 +116,12 @@ Feel free to use, modify, and distribute with credit.
 
 ---
 
-## 📞 Contact
+## 🙋‍♀️ Author
 
-**Marmik Gandhi**  
-GitHub: [@MarmikGandhi](https://github.com/MarmikGandhi)  
-Email: *your.email@example.com*
-
+Developed by **Marmik Gandhi** Feel free to connect:   
+- GitHub: [@MarmikGandhi](https://github.com/MarmikGandhi)
+- Email: [marmikgandhi@gamil.com](mailto:marmikgandhi@gamil.com)
+- LinkedIn: [marmik-gandhi](https://www.linkedin.com/in/marmik-gandhi-006a55323/)
 ---
 
 > *“Yoga is the journey of the self, through the self, to the self.”* – _Bhagavad Gita_
